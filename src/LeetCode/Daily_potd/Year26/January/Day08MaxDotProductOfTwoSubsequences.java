@@ -1,6 +1,6 @@
 package LeetCode.Daily_potd.Year26.January;
 
-public class Day01MaxDotProductOfTwoSubsequences {
+public class Day08MaxDotProductOfTwoSubsequences {
 
     // Approach:
     // Using top-down dynamic programming (recursion + memoization).
