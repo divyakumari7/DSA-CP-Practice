@@ -2,7 +2,7 @@ package LeetCode.Topic_wise.Stack;
 
 import java.util.*;
 
-class NextGreaterElement_III {
+class NextGreaterElement_I {
 
     // Approach:
     // We use a Monotonic Decreasing Stack to find the Next Greater Element.
