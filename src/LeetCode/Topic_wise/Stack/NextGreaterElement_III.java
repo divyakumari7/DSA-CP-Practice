@@ -72,3 +72,4 @@ class NextGreaterElement_III {
         return (int) num;
     }
 }
+
