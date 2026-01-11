@@ -1,6 +1,6 @@
 package LeetCode.Topic_wise.Stack;
 
-class NextGreaterElement_III_Number {
+class NextGreaterElement_III {
 
     // Approach:
     // This problem is based on finding the next lexicographically greater
