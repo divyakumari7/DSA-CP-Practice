@@ -1,7 +1,7 @@
 package LeetCode.Daily_potd.Year26.January;
 import java.util.*;
 
-class Day14SeparateSquaresAdvanced {
+class Day14SeparateSquares_II {
 
     /*
      * Problem:
