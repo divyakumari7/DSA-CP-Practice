@@ -2,11 +2,11 @@ package LeetCode.Daily_potd.Year26.April;
 
 import java.util.*;
 
-public class Day07WalkingRobotSimulation {
+public class Day06WalkingRobotSimulation {
 
     public static void main(String[] args) {
 
-        Day07WalkingRobotSimulation sol = new Day07WalkingRobotSimulation();
+        Day06WalkingRobotSimulation sol = new Day06WalkingRobotSimulation();
 
         // ============================
         // Test Case 1
