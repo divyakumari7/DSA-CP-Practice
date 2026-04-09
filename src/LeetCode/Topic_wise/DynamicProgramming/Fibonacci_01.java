@@ -1,9 +1,9 @@
 package LeetCode.Topic_wise.DynamicProgramming;
 
-public class Fibonacci {
+public class Fibonacci_01 {
     public static void main(String[] args) {
 
-        Fibonacci sol = new Fibonacci();
+        Fibonacci_01 sol = new Fibonacci_01();
 
         // ============================
         // Test Case 1

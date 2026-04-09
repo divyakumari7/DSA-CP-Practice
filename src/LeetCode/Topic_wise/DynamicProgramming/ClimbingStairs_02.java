@@ -1,12 +1,10 @@
 package LeetCode.Topic_wise.DynamicProgramming;
 
-import java.util.*;
-
-public class ClimbingStairs {
+public class ClimbingStairs_02 {
 
     public static void main(String[] args) {
 
-        ClimbingStairs sol = new ClimbingStairs();
+        ClimbingStairs_02 sol = new ClimbingStairs_02();
 
         // ============================
         // Test Case 1
