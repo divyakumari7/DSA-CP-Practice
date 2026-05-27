@@ -2,11 +2,11 @@ package LeetCode.Daily_potd.Year26.May;
 
 import java.util.*;
 
-public class Day27CountSpecialCharacters {
+public class Day26CountSpecialCharacters_I {
 
     public static void main(String[] args) {
 
-        Day27CountSpecialCharacters sol = new Day27CountSpecialCharacters();
+        Day26CountSpecialCharacters_I sol = new Day26CountSpecialCharacters_I();
 
         // ============================
         // Test Case 1
