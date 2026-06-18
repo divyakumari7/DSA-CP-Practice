@@ -220,7 +220,6 @@ Pattern Used
 2. Slow & Fast Pointer
 
 3. Middle Node Detection
-
 Best Approach:
 Slow & Fast Pointer
 */
