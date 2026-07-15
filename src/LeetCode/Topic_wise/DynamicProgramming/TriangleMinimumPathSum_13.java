@@ -2,13 +2,13 @@ package LeetCode.Topic_wise.DynamicProgramming;
 
 import java.util.*;
 
-public class TriangleMinimumPathSum_12 {
+public class TriangleMinimumPathSum_13 {
 
     static int [][] dp;
 
     public static void main(String[] args) {
 
-        TriangleMinimumPathSum_12 sol = new TriangleMinimumPathSum_12();
+        TriangleMinimumPathSum_13 sol = new TriangleMinimumPathSum_13();
 
         // ============================
         // Test Case 1
