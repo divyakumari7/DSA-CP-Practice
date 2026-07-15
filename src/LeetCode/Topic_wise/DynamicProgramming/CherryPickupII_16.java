@@ -2,14 +2,14 @@ package LeetCode.Topic_wise.DynamicProgramming;
 
 import java.util.*;
 
-public class CherryPickupII_15 {
+public class CherryPickupII_16 {
 
     static int[][][] dp;
 
     public static void main(String[] args) {
 
-        CherryPickupII_15 sol =
-                new CherryPickupII_15();
+        CherryPickupII_16 sol =
+                new CherryPickupII_16();
 
         // ============================
         // Test Case 1
