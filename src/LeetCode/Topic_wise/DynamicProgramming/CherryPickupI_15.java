@@ -1,4 +1,4 @@
 package LeetCode.Topic_wise.DynamicProgramming;
 
-public class CherryPickup_15 {
+public class CherryPickupI_15 {
 }
