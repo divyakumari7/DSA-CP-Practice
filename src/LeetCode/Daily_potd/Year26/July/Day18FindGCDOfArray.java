@@ -1,13 +1,11 @@
 package LeetCode.Daily_potd.Year26.July;
 
-import java.util.*;
-
-public class Day18FindGreatestCommonDivisorOfArray {
+public class Day18FindGCDOfArray {
 
     public static void main(String[] args) {
 
-        Day18FindGreatestCommonDivisorOfArray sol =
-                new Day18FindGreatestCommonDivisorOfArray();
+        Day18FindGCDOfArray sol =
+                new Day18FindGCDOfArray();
 
         // ============================
         // Test Case 1
