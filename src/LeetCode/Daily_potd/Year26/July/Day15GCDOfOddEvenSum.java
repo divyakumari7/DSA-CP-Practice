@@ -1,11 +1,11 @@
 package LeetCode.Daily_potd.Year26.July;
 
-public class Day15GCDOfOddEvenSums {
+public class Day15GCDOfOddEvenSum {
 
     public static void main(String[] args) {
 
-        Day15GCDOfOddEvenSums sol =
-                new Day15GCDOfOddEvenSums();
+        Day15GCDOfOddEvenSum sol =
+                new Day15GCDOfOddEvenSum();
 
         // ============================
         // Test Case 1
