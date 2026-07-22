@@ -261,6 +261,5 @@ Flatten the grid into a
 1D list, perform right
 rotation using the
 Reversal Algorithm, and
-reconstruct the 2D grid.
-
+reconstruct the 2D grid
  */
