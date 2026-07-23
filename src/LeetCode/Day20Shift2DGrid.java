@@ -253,10 +253,7 @@ Pattern Used
 4. Reversal Algorithm
 
 5. Simulation
-
-
 Best Approach:
-
 Flatten the grid into a
 1D list, perform right
 rotation using the
